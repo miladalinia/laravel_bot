@@ -84,6 +84,7 @@
       <change afterPath="$PROJECT_DIR$/../digistyle/tests/TestCase.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../digistyle/tests/Unit/ExampleTest.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../digistyle/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +97,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -239,7 +241,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609174864390</updated>
-      <workItem from="1609174870231" duration="395000" />
+      <workItem from="1609174870231" duration="1311000" />
     </task>
     <servers />
   </component>
