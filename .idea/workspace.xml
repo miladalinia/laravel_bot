@@ -84,19 +84,25 @@
       <change afterPath="$PROJECT_DIR$/../digistyle/tests/TestCase.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../digistyle/tests/Unit/ExampleTest.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../digistyle/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel_bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel_bot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="PackageJsonUpdateNotifier">
@@ -210,6 +216,8 @@
       <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
       <path value="$PROJECT_DIR$/vendor/brick/math" />
       <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/league/event" />
+      <path value="$PROJECT_DIR$/vendor/irazasyed/telegram-bot-sdk" />
     </include_path>
   </component>
   <component name="ProjectId" id="1mIIpxzEnqIutnTDOCP2O0JsonM" />
@@ -241,7 +249,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609174864390</updated>
-      <workItem from="1609174870231" duration="1311000" />
+      <workItem from="1609174870231" duration="6073000" />
+      <workItem from="1609440563249" duration="5786000" />
+      <workItem from="1609608448516" duration="24000" />
+      <workItem from="1609619354092" duration="16000" />
     </task>
     <servers />
   </component>
